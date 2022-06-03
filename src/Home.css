@@ -1,0 +1,11 @@
+.title{
+    width: 250px;
+}
+.card{
+    height: 370px;
+    width: 300px;
+}
+.fle{
+    display: flex;
+    flex-wrap: wrap;
+}
